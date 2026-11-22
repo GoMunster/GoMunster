@@ -8,7 +8,7 @@
 
 <img src="assets/banner.svg" alt="pink handheld console with stickers and an mp3 player" width="100%"/>
 
-**hi, i'm YOUR NAME** ♡ i make games, websites & tiny blinky gadgets (and soon: art).
+**hi, i'm GABRIELLE** ♡ i make games, websites & tiny blinky gadgets (and soon: art).
 currently **loading** new projects. press play ▶
 
 <img src="assets/divider.svg" width="80%" alt=""/>
